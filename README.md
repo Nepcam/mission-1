@@ -1,4 +1,4 @@
-# mission-1
+# Mission-1
 
 Mock up landing page. Learning how to implement a chatbot
 
