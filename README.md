@@ -1,6 +1,6 @@
 # Mission-1
 
-Mock up landing page. Learning how to implement a chatbot
+Mock up landing page. Learning how to implement a chatbot. Part of the MIssion Ready HQ project.
 
 Great tutorial on learning how to make a simple chatbot
 https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started#getting-started
